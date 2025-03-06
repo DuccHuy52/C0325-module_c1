@@ -19,6 +19,7 @@ public class Biensoxe {
         System.out.println("nhap so thu nam: ");
         int E = scanner.nextInt();
 
+
         int sum = A + B + C + D + E;
         System.out.println("tong diem bien so: " + sum);
 
