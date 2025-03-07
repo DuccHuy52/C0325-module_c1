@@ -21,5 +21,6 @@ public class Biensoxe {
 
         System.out.println("tong diem so nut la: " + sonut);
 
+
     }
 }
